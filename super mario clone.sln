@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "super mario clone", "super mario clone.csproj", "{52D685F0-1835-8D94-45EB-E83BAC35BA4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "super mario clone.Plugins", "super mario clone.Plugins.csproj", "{05F1197D-BC0E-D294-59CF-9B90469EEF9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "super mario clone.Editor.Plugins", "super mario clone.Editor.Plugins.csproj", "{EDD02210-C845-BF3E-387E-BCE313CA2D08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52D685F0-1835-8D94-45EB-E83BAC35BA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D685F0-1835-8D94-45EB-E83BAC35BA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D685F0-1835-8D94-45EB-E83BAC35BA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D685F0-1835-8D94-45EB-E83BAC35BA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F1197D-BC0E-D294-59CF-9B90469EEF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F1197D-BC0E-D294-59CF-9B90469EEF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F1197D-BC0E-D294-59CF-9B90469EEF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F1197D-BC0E-D294-59CF-9B90469EEF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD02210-C845-BF3E-387E-BCE313CA2D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD02210-C845-BF3E-387E-BCE313CA2D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD02210-C845-BF3E-387E-BCE313CA2D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD02210-C845-BF3E-387E-BCE313CA2D08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
